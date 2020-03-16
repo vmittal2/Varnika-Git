@@ -1,0 +1,8 @@
+shiny
+dendextend
+colourpicker
+shinyWidgets
+shinyjs
+factoextra
+d3heatmap
+ape
